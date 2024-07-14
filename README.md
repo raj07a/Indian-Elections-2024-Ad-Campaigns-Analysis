@@ -1,4 +1,4 @@
-#**Indian Elections 2024: Digital Ad Campaigns Analysis**
+#Indian Elections 2024: Digital Ad Campaigns Analysis
 
 Welcome to the Indian Elections 2024 Digital Ad Campaigns Analysis repository! This project dives deep into the analytics of digital advertising strategies employed during the Indian Elections 2024, offering insights into voter engagement, spending patterns, and electoral dynamics.
 
